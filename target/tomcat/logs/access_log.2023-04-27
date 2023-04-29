@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:19:18:11 +0800] "GET /brand-case HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:19:18:11 +0800] "GET /brand-case/ HTTP/1.1" 404 973 http-bio-8080-exec-3 23
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:19:18:11 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:19:18:16 +0800] "GET /brand-case/brand.html HTTP/1.1" 304 - http-bio-8080-exec-5 35
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:19:18:17 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 780 http-bio-8080-exec-6 857
